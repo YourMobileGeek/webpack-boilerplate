@@ -2,11 +2,11 @@
 
 A webpack boilerplate that includes the following libs:
 
-* jQuery
-* bootstrap
-* font-awesome
-* waypoints
-* animate.css
+* JQuery
+* Bootstrap
+* Font-awesome
+* Waypoints
+* Animate.css
 
 ### Install dependencies
 
